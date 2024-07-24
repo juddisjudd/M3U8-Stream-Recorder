@@ -49,6 +49,8 @@ M3U8 Stream Recorder is a desktop application built with PyQt6 that allows users
 
 6. Select the folder where recordings will be saved using the "Select Folder" button.
 
+[Or just grab and run release here!](https://github.com/juddisjudd/M3U8-Stream-Recorder/releases/tag/1.0)
+
 ## Dependencies
 
 - PyQt6
