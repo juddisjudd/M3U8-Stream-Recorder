@@ -2,6 +2,9 @@
 
 M3U8 Stream Recorder is a desktop application built with PyQt6 that allows users to record M3U8 streams using FFmpeg.
 
+![m3ur_wCInKyh4P1](https://github.com/user-attachments/assets/dbf53226-e422-46d3-a113-ccc700a63923)
+
+
 ## Features
 
 - Add and manage multiple M3U8 streams
